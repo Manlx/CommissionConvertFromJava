@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Manuel A Nunes</Authors>
+    <Company>To be disclosed</Company>
+    <Product>Derpy Program</Product>
+  </PropertyGroup>
+
+</Project>
